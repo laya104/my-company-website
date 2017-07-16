@@ -1,0 +1,23 @@
+
+body {
+	background-color: mistyrose;
+	;margin-bottom: 80px
+}
+
+ul    {font-weight: bold;}
+
+h4		{font-size: 30px}
+
+.page-header {margin-top: 0;
+			}
+
+.panel-body	{padding-top: 0;
+		}
+
+.featuredimg{margin-bottom: 15px}
+
+.jumbotron {background-image: url(sixpack.png);
+			background-size: 300px;
+			background-repeat: no-repeat;
+			background-position: 0% 25%;
+			margin-bottom: 0%}
